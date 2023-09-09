@@ -1,1 +1,1 @@
-simple calculator using html, css, javascipt.
+simple calculator using HTML, CSS, javaScipt.
